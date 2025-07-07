@@ -23,8 +23,8 @@
 
 ➡️ [my-react-django-project](https://github.com/swajan21/my-react-django-project)  
 ➡️ [React-js-Project](https://github.com/swajan21/React-js-Project)  
-➡️ [Portfolio Website (Coming Soon)](#)  
-➡️ [Python Django Interview Preparation](#)  
+➡️ [DJANGO-PROJECT-ECOMMERCE](https://github.com/swajan21/DJANGO-PROJECT-ECOMMERCE)  
+➡️ [Google Classroom Clone - Django + React (Coming Soon)](#)  
 
 ---
 
