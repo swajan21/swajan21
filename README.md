@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Swajan Talukder - Dipto 👋
 
-<!--
-**swajan21/swajan21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a passionate Web Developer and Computer Science enthusiast  
+💻 Skilled in: **Python | Django | ReactJS | JavaScript | MySQL**  
+🚀 Currently building: Fullstack Projects like E-commerce Website (Html,css,javascript,Bootstrap,Python, Django,SQLite3) | E-commerce Website (ReactJS, Python, Django, Django REST Framework, REST APIs, JWT authentication) 
+🌱 Actively learning: Advanced Django, REST APIs, and React Hooks  
+📫 How to reach me: [swajantalukderdipto@gmail.com]  
+  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+- **Frontend:** ReactJS, JavaScript, HTML5, CSS3, Bootstrap  
+- **Backend:** Python, Django, Django REST Framework  
+- **Database:** MySQL, SQLite, PostgreSQL, MongoDB 
+- **Tools:** Git, GitHub, VS Code, Postman  
+- **Deployment:** Vercel, Netlify, Railway (Learning)  
+
+---
+
+## 📌 Pinned Projects
+
+➡️ [Google Classroom Clone - Django + React](#)  
+➡️ [E-commerce Fullstack Website](#)  
+➡️ [Portfolio Website (Coming Soon)](#)  
+➡️ [Python Django Interview Preparation](#)  
+
+---
+
+## 📊 GitHub Stats
+
+![Swajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=swajan21&show_icons=true&theme=tokyonight)  
+
+---
+
+> "Consistent effort and real-world project building is the key to becoming a better developer." 🚀
+
