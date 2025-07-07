@@ -21,7 +21,7 @@
 
 ## 📌 Pinned Projects
 
-➡️ [Google Classroom Clone - Django + React](#)  
+➡️ [my-react-django-project](#)  
 ➡️ [E-commerce Fullstack Website](#)  
 ➡️ [Portfolio Website (Coming Soon)](#)  
 ➡️ [Python Django Interview Preparation](#)  
